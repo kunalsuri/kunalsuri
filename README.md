@@ -1,9 +1,7 @@
-### Hi there 👋
-- 👋 Hi there, I’m Dr. Kunal Suri, a Computer Scientist working in Paris, France;
+###👋 Hi there, I’m Dr. Kunal Suri, a Computer Scientist working in Paris, France;
 - 👯 When I wear my Leadership hat, I enjoy leading complex technical R&D projects and programs at the EU level involving cross-functional teams;
 - 🔭 When I wear my Scientist hat, I enjoy researching about topics around AI and NLP along with applications of Digital Twins and MBSE to industry 4.0/ 5.0;
 - 📫 Best way to reach me is via my social media handles -> Twitter: @kunalsuri || LinkedIn: https://www.linkedin.com/in/kunalsuri/
-
 
 <!--
 **kunalsuri/kunalsuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
