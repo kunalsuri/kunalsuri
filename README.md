@@ -57,12 +57,13 @@ I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.co
 </details>
 
 <details>
-  <summary>AI Models</summary>
+  <summary>AI Models | Text-2-Image</summary>
   <ul>
     <li><a href="https://github.com/huggingface/diffusers">HuggingFace Diffusers</a></li>
     <li><a href="https://huggingface.co/RunDiffusion">HuggingFace RunDiffusion</a></li>
     <li><a href="https://github.com/huggingface/transformers">HuggingFace Transformers</a></li>
     <li><a href="https://github.com/XPixelGroup/HAT/tree/main">HAT: Hybrid Attention Transformer for Image Restoration</a></li>
+    <li><a href="https://huggingface.co/spaces/multimodalart/LoraTheExplorer">HuggingFace LoraTheExplorer</a></li>    
   </ul>
 </details>
 
