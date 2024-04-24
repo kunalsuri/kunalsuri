@@ -34,7 +34,7 @@ I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.co
 ## ✨ Some awesome Open-Source Repo that I use & adore ❤️!
 
 <details>
-  <summary> Awesome tools for running AI Models </summary>
+  <summary> Tools for running AI Models </summary>
   <ul>
     <li><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Stable Diffusion Webui (by AUTOMATIC1111)</a></li>
     <li><a href="https://github.com/lllyasviel/Fooocus">Fooocus GUI</a></li>
@@ -69,9 +69,11 @@ I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.co
 <details>
   <summary> Open BPM & ERP </summary>
   <ul>
+    <li><a href="https://eclipse.dev/papyrus/">Eclipse Papyrus</a></li>
+    <li><a href="https://github.com/eclipse-aaspe">Eclipse AASX</a></li>  
     <li><a href="https://github.com/camunda/camunda-modeler">Camunda BPMN Modeler</a></li>
     <li><a href="https://github.com/kunalsuri/odoo">ODOO CRM & ERP</a></li>
-    </a></li>
+  </a></li>
   </ul>
 </details>
 
