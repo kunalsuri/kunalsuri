@@ -1,7 +1,7 @@
 ## 👋 Greetings
 I'm Kunal, a Computer Scientist & Engineer at <a href="https://www.cea.fr/"> CEA </a>, where we are contributing to create technologies to make the world a better place! 🙂🙏. 
 
-💪🏋️‍♂️ I find fulfillment in spearheading intricate technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a> ), orchestrating collaborative efforts across multifaceted/cross-functional teams
+💪 I find fulfillment in spearheading intricate technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a> ), orchestrating collaborative efforts across multifaceted/cross-functional teams
 
 ⚡🔭 I’m currently working on research around applications of AI 🤖 { NLP & CV }, and exploring the cutting-edge applications of Digital Twins (along with MBSE) to domains such as Industry 4.0/5.0, Supply Chains :dependabot:
 
@@ -32,11 +32,26 @@ I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.co
 
 
 ## ✨ Some awesome Open-Source Repo that I use & adore ❤️!
+
+<details>
+  <summary> Awesome tools/ GUI for running AI Models </summary>
+  <ul>
+    <li><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Stable Diffusion Webui (by AUTOMATIC1111)</a></li>
+    <li><a href="https://github.com/lllyasviel/Fooocus">Fooocus GUI</a></li>
+    <li><a href="https://github.com/chaiNNer-org/chaiNNer">ChaiNNer</a></li>
+    <li><a href="https://github.com/huggingface/chat-ui">HuggingFace Chat</a></li>
+    <li><a href="https://github.com/comfyanonymous/ComfyUI">ComfyUI</a></li>
+    </a></li>
+  </ul>
+</details>
+
 <details>
   <summary>LLMs</summary>
   <ul>
+    <li><a href="https://github.com/ollama/ollama">Ollama</a></li>
     <li><a href="https://github.com/langchain-ai/langchain">LangChain</a></li>
     <li><a href="https://github.com/jerryjliu/llama_index">LlamaIndex</a></li>
+    <li><a href="https://github.com/Hannibal046/Awesome-LLM">Repo of Awesome LLM</a></li>
   </ul>
 </details>
 
@@ -47,6 +62,7 @@ I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.co
     <li><a href="https://github.com/huggingface/diffusers">Diffusers</a></li>
   </ul>
 </details>
+
 
 ## 🛡️EU's Guidelines on Responsible AI
 :european_union: EU's Guidelines on the responsible use of generative AI in research: https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en
