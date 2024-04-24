@@ -50,6 +50,3 @@ I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.co
 
 ## 🛡️EU's Guidelines on Responsible AI
 :european_union: EU's Guidelines on the responsible use of generative AI in research: https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en
-
-- ⚡ Fun fact: ...
--->
