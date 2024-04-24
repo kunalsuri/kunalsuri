@@ -6,12 +6,6 @@ I'm Kunal, a Computer Scientist & Engineer at <a href="https://list.cea.fr/en/">
 ⚡🔭 I’m currently working on research around applications of AI 🤖 { NLP & CV }, and exploring the cutting-edge applications of Digital Twins (along with MBSE) to domains such as Industry 4.0/5.0, Supply Chains :dependabot:!
 
 
-## 🎓 Education
-- **Ph.D. in Computer Science**, Université Paris-Saclay, France.
-- **M.S. in Computer Science**, University of Stuttgart, Germany.
-- **B.S. in Computer Science**, VIT Vellore, India.
-
-
 ## 🤗 Connect!
 <a href="https://www.linkedin.com/in/kunalsuri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/kunalsuri" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
