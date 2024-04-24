@@ -21,7 +21,7 @@ I'm Kunal, a Computer Scientist & Engineer at <a href="https://list.cea.fr/en/">
 - 🌎 Climate & Sustainability
 
 
-## 📝 Blogging & Writing
+## 📝 Writing | Blogging
 I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.com/in/kunalsuri/), where I have over 2K+ followers.
 
 
