@@ -1,9 +1,9 @@
 ## 👋 Greetings
 I'm Kunal, a Computer Scientist & Engineer at <a href="https://list.cea.fr/en/"> CEA </a>, where we are contributing to create technologies to make the world a better place! 🙂🙏. 
 
-💪 I enjoy spearheading intricate technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a> ), orchestrating collaborative efforts across multifaceted/cross-functional teams
+💪 I enjoy spearheading intricate technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a> ), orchestrating collaborative efforts across multifaceted/cross-functional teams.
 
-⚡🔭 I’m currently working on research around applications of AI 🤖 { NLP & CV }, and exploring the cutting-edge applications of Digital Twins (along with MBSE) to domains such as Industry 4.0/5.0, Supply Chains :dependabot:
+⚡🔭 I’m currently working on research around applications of AI 🤖 { NLP & CV }, and exploring the cutting-edge applications of Digital Twins (along with MBSE) to domains such as Industry 4.0/5.0, Supply Chains :dependabot:!
 
 
 ## 🎓 Education
@@ -22,8 +22,8 @@ I'm Kunal, a Computer Scientist & Engineer at <a href="https://list.cea.fr/en/">
 
 
 ## 🌱 Topics of Interest
-- 🛡️ Responsible AI
-- 📖 Open source Generative AI Models
+- 📖 Digital Twins
+- 🛡️ Open-source Generative AI | Responsible AI
 - 🌎 Climate & Sustainability
 
 
@@ -51,13 +51,14 @@ I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.co
     <li><a href="https://github.com/ollama/ollama">Ollama</a></li>
     <li><a href="https://github.com/langchain-ai/langchain">LangChain</a></li>
     <li><a href="https://github.com/jerryjliu/llama_index">LlamaIndex</a></li>
-    <li><a href="https://github.com/Hannibal046/Awesome-LLM">Repo of Awesome LLM</a></li>
+    <li><a href="https://github.com/Hannibal046/Awesome-LLM">Repo of Awesome LLM Projects</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Models</summary>
   <ul>
+    <li><a href="https://github.com/huggingface/transformers">Transformers</a></li>
     <li><a href="https://github.com/huggingface/transformers">Transformers</a></li>
     <li><a href="https://github.com/huggingface/diffusers">Diffusers</a></li>
   </ul>
