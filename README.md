@@ -1,5 +1,5 @@
 ## 👋 Greetings
-I'm Kunal, a Computer Scientist & Engineer at <a href="https://www.cea.fr/"> CEA </a>, where we are contributing to create technologies to make the world a better place! 🙂🙏. 
+I'm Kunal, a Computer Scientist & Engineer at <a href="(https://list.cea.fr/en/"> CEA </a>, where we are contributing to create technologies to make the world a better place! 🙂🙏. 
 
 💪 I find fulfillment in spearheading intricate technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a> ), orchestrating collaborative efforts across multifaceted/cross-functional teams
 
@@ -21,9 +21,9 @@ I'm Kunal, a Computer Scientist & Engineer at <a href="https://www.cea.fr/"> CEA
 📫 The most efficient way to contact me is through my social media handles, please feel free to reach out!
 
 
-## 🌱 Things I Care About
+## 🌱 Topics of Interest
 - 🛡️ Responsible AI
-- 📖 Open source 
+- 📖 Open source Generative AI Models
 - 🌎 Climate & Sustainability
 
 
