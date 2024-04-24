@@ -34,7 +34,7 @@ I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.co
 ## ✨ Some awesome Open-Source Repo that I use & adore ❤️!
 
 <details>
-  <summary> Awesome tools/ GUI for running AI Models </summary>
+  <summary> Awesome tools for running AI Models </summary>
   <ul>
     <li><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Stable Diffusion Webui (by AUTOMATIC1111)</a></li>
     <li><a href="https://github.com/lllyasviel/Fooocus">Fooocus GUI</a></li>
@@ -48,19 +48,30 @@ I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.co
 <details>
   <summary>LLMs</summary>
   <ul>
+    <li><a href=" https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard">HuggingFace Open LLM Leaderboard</a></li>
+    <li><a href="https://github.com/Hannibal046/Awesome-LLM">Repo of Awesome LLM Projects</a></li>
     <li><a href="https://github.com/ollama/ollama">Ollama</a></li>
     <li><a href="https://github.com/langchain-ai/langchain">LangChain</a></li>
     <li><a href="https://github.com/jerryjliu/llama_index">LlamaIndex</a></li>
-    <li><a href="https://github.com/Hannibal046/Awesome-LLM">Repo of Awesome LLM Projects</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Models</summary>
+  <summary>AI Models</summary>
   <ul>
-    <li><a href="https://github.com/huggingface/transformers">Transformers</a></li>
-    <li><a href="https://github.com/huggingface/transformers">Transformers</a></li>
-    <li><a href="https://github.com/huggingface/diffusers">Diffusers</a></li>
+    <li><a href="https://github.com/huggingface/diffusers">HuggingFace Diffusers</a></li>
+    <li><a href="https://huggingface.co/RunDiffusion">HuggingFace RunDiffusion</a></li>
+    <li><a href="https://github.com/huggingface/transformers">HuggingFace Transformers</a></li>
+    <li><a href="https://github.com/XPixelGroup/HAT/tree/main">HAT: Hybrid Attention Transformer for Image Restoration</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary> Open BPM & ERP </summary>
+  <ul>
+    <li><a href="https://github.com/camunda/camunda-modeler">Camunda BPMN Modeler</a></li>
+    <li><a href="https://github.com/kunalsuri/odoo">ODOO CRM & ERP</a></li>
+    </a></li>
   </ul>
 </details>
 
