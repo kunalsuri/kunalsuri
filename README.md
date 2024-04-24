@@ -42,7 +42,7 @@ I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.co
 <details>
   <summary>LLMs</summary>
   <ul>
-    <li><a href=" https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard">HuggingFace Open LLM Leaderboard</a></li>
+    <li><a href="https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard">HuggingFace Open LLM Leaderboard</a></li>
     <li><a href="https://github.com/Hannibal046/Awesome-LLM">Repo of Awesome LLM Projects</a></li>
     <li><a href="https://github.com/ollama/ollama">Ollama</a></li>
     <li><a href="https://github.com/langchain-ai/langchain">LangChain</a></li>
