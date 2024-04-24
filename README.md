@@ -3,7 +3,7 @@ I'm Kunal, a Computer Scientist & Engineer at <a href="https://list.cea.fr/en/">
 
 💪 I enjoy spearheading intricate technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a> ), orchestrating collaborative efforts across multifaceted/cross-functional teams.
 
-⚡🔭 I’m currently working on research around applications of AI 🤖 { NLP & CV }, and exploring the cutting-edge applications of Digital Twins (along with MBSE) to domains such as Industry 4.0/5.0, Supply Chains :dependabot:!
+⚡🔭 I’m currently working on research around applications of AI 🤖 { NLP & CV }, and exploring the cutting-edge applications of Digital Twins to domains such as Industry 4.0/5.0, Supply Chains :dependabot:!
 
 
 ## 🤗 Connect!
