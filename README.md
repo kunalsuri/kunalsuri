@@ -1,12 +1,11 @@
 ## 👋 Greetings
-I'm Kunal, a Computer Scientist & Engineer at <a href="https://list.cea.fr/en/"> CEA </a>, where we are contributing to create technologies to make the world a better place! 🙂🙏. 
+I'm Kunal, a Computer Scientist & Engineer at <a href="https://list.cea.fr/en/">CEA</a>, where we develop technologies in the hope of making the world a bit better!🙏
 
-💪 I enjoy spearheading intricate technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a> ), orchestrating collaborative efforts across multifaceted/cross-functional teams.
+💪 I enjoy spearheading complex technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a> ), orchestrating collaborative efforts across multifaceted/cross-functional teams.
 
-⚡🔭 I’m currently working on research around applications of AI 🤖 { NLP & CV }, and exploring the cutting-edge applications of Digital Twins to domains such as Industry 4.0/5.0, Supply Chains :dependabot:!
+⚡🔭 My current work revolves around the topic of <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a>, where I am researching the applications of Generative AI 🤖 { NLP (open-source LLMs) and CV (diffusion models) :dependabot: } to Digital Twin(s), especially for <a href="https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html">Industry 4.0</a> (or 5.0/ X.0) including Supply Chain Management.
 
-
-## 🤗 Connect!
+## 🤗 Connect with me!
 <a href="https://www.linkedin.com/in/kunalsuri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/kunalsuri" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://huggingface.co/kunalsuri" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?&style=for-the-badge&logoColor=white" /></a>
