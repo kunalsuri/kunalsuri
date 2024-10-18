@@ -1,7 +1,7 @@
 ## 👋 Greetings
 I'm Kunal, a Computer Scientist & Engineer at <a href="https://list.cea.fr/en/">CEA</a>, where we develop technologies in the hope of making the world a bit better!🙏
 
-💪 I enjoy spearheading complex technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/101138782">RAASCEMAN</a>  <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a> ), orchestrating collaborative efforts across multifaceted/cross-functional teams.
+💪 I enjoy spearheading complex technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/101138782">RAASCEMAN</a>, and  <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a> ), orchestrating collaborative efforts across multifaceted/cross-functional teams.
 
 ⚡🔭 My current work revolves around the topic of <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a>, where I am researching the applications of Generative AI 🤖 { NLP (open-source LLMs) and CV (diffusion models) :dependabot: } to Digital Twin(s), especially for <a href="https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html">Industry 4.0/5.0</a> including Supply Chain Management.
 
