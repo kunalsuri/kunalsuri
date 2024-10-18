@@ -15,9 +15,9 @@ I'm Kunal, a Computer Scientist & Engineer at <a href="https://list.cea.fr/en/">
 
 
 ## 🌱 Topics of Interest
-- 📖 Digital Twins
-- 🛡️ Open-source Generative AI | Responsible AI
-- 🌎 Climate & Sustainability
+- 📖 AI-augmented Digital Twins
+- 🛡️ Open-source Generative AI | Trustworthy AI
+- 🌎 Sustainability & Climate
 
 
 ## 📝 Writing | Blogging
