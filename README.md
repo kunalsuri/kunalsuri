@@ -1,9 +1,9 @@
 ## 👋 Greetings
-I'm Kunal, a Computer Scientist & Manager for R&D projects at <a href="https://list.cea.fr/en/">CEA</a>, where we develop technologies in the hope of making the world a bit better!🙏
+I'm Kunal, a Computer Scientist & Manager for R&D projects at <a href="https://list.cea.fr/en/">CEA</a>, where we develop technologies to make the world a bit better!🙏
 
 💪 I enjoy spearheading complex technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/101138782">RAASCEMAN</a>, and  <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a>), orchestrating collaborative efforts across multifaceted/cross-functional teams.
 
-⚡🔭 My current work revolves around the topic of <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a>, where I am researching the applications of Generative AI 🤖 { LLM/ VLM :dependabot:} to Digital Twins, especially for <a href="https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html">Industry 5.0</a> including Supply Chain Management, Health care and Energy sector!
+⚡🔭 My current work revolves around the topic of AI-Augumented <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a>, where we work on the applications of Generative AI 🤖 { LLM/ VLM :dependabot:} to Digital Twins, especially for sectors such as <a href="https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html">Industry 5.0</a> including Supply Chain Management, Health care and Energy.
 
 ## 🤗 Connect with me!
 <a href="https://www.linkedin.com/in/kunalsuri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -21,7 +21,7 @@ I'm Kunal, a Computer Scientist & Manager for R&D projects at <a href="https://l
 
 
 ## 📝 Writing | Blogging
-I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.com/in/kunalsuri/), where I have over 2K+ followers.
+I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.com/in/kunalsuri/), where I have over 3.5K+ followers.
 
 
 ## ✨ Some awesome Open-Source Repo that I use & adore ❤️!
