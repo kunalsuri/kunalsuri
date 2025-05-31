@@ -15,9 +15,9 @@ I'm Kunal, a Computer Scientist & Manager for R&D projects at <a href="https://l
 
 
 ## 🌱 Topics of Interest
-- 📖 AI-augmented Digital Twins
-- 🛡️ Open-source Generative AI | Trustworthy AI
-- 🌎 Sustainability & Climate
+- 📖 AI Agents & Digital Twins
+- 🛡️ Trustworthy AI
+- 🌎 Sustainable AI (AI & Climate)
 
 
 ## 📝 Writing | Blogging
