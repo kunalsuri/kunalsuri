@@ -1,9 +1,9 @@
 ## 👋 Greetings
 I'm Kunal, a Computer Scientist & Manager for R&D projects at <a href="https://list.cea.fr/en/">CEA</a>, where we develop technologies to make the world a bit better!🙏
 
-💪 I enjoy spearheading complex technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/101138782">RAASCEMAN</a>, and  <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a>), orchestrating collaborative efforts across multifaceted/cross-functional teams.
+💪 I spearhead complex cross-functional technical European R&D projects and programs (funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/101138782">RAASCEMAN</a>, and <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a>), orchestrating collaborative efforts across multifaceted teams.
 
-⚡🔭 My current work revolves around the topic of AI-Augumented <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a>, where we work on the applications of Generative AI 🤖 { LLM/ VLM :dependabot:} to Digital Twins, especially for sectors such as <a href="https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html">Industry 5.0</a> including Supply Chain Management, Health care and Energy.
+⚡🔭 My current work revolves around the topic of AI-Augumented <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a>, where we work on the applications of Generative AI 🤖 { LLM/ VLM :dependabot:} and AI Agnets to Digital Twins, especially for sectors such as <a href="https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html">Industry 5.0</a> including Supply Chain Management, Healthcare and Energy.
 
 ## 🤗 Connect with me!
 <a href="https://medium.com/@kunalsuri" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
