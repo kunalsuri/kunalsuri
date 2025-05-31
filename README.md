@@ -6,10 +6,10 @@ I'm Kunal, a Computer Scientist & Manager for R&D projects at <a href="https://l
 ⚡🔭 My current work revolves around the topic of AI-Augumented <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a>, where we work on the applications of Generative AI 🤖 { LLM/ VLM :dependabot:} to Digital Twins, especially for sectors such as <a href="https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html">Industry 5.0</a> including Supply Chain Management, Health care and Energy.
 
 ## 🤗 Connect with me!
+<a href="https://medium.com/@kunalsuri" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kunalsuri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/kunalsuri" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://huggingface.co/kunalsuri" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://medium.com/@kunalsuri" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 📫 The most efficient way to contact me is through my social media handles, please feel free to reach out!
 
