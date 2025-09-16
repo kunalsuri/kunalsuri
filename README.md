@@ -21,7 +21,7 @@ I'm Kunal, a Computer Scientist & Manager for R&D projects at <a href="https://l
 
 
 ## 📝 Writing | Blogging
-I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.com/in/kunalsuri/), where I have over 3.5K+ followers.
+I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.com/in/kunalsuri/), where I have over 4K+ followers.
 
 
 ## ✨ Some awesome Open-Source Repo that I use & adore ❤️!
