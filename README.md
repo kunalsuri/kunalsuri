@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi there, I'm Kunal</h1>
 <h3 align="center">A Computer Scientist & Manager for European R&D projects at <a href="https://list.cea.fr/en/">CEA</a>, where we develop technologies in a hope to make the world a bit better! 🙏</h3>
 
+</br>
+
 <div align="center">
 <a href="https://twitter.com/kunalsuri" target="blank"><img src="https://img.shields.io/twitter/follow/kunalsuri?style=social&logo=x" alt="Follow kunalsuri on X (formerly Twitter)" /></a>
 <a href="https://www.linkedin.com/in/kunalsuri/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin" alt="Connect with kunalsuri on LinkedIn" /></a>
