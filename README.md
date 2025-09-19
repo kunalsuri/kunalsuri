@@ -31,9 +31,9 @@
 </br>
 
 ## 🌱  Topics of Interest
-- 📖  AI Agents 
-- 👥  Digital Twins
-- 🛡️  Trustworthy & Sustainable AI
+- 📖 AI-Augmented Software Development Life-Cycle (SDLC)
+- 👥 Digital Twins
+- 🛡️ Trustworthy & Sustainable Agentic AI Systems 
 
 </br>
 
