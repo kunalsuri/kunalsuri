@@ -1,30 +1,86 @@
-## 👋 Greetings
-I'm Kunal, a Computer Scientist & Manager for R&D projects at <a href="https://list.cea.fr/en/">CEA</a>, where we develop technologies to make the world a bit better!🙏
+<h1 align="center">👋 Hi there, I'm Kunal</h1>
+<h3 align="center">A Computer Scientist & Manager for European R&D projects at <a href="https://list.cea.fr/en/">CEA</a>, where we develop technologies in a hope to make the world a bit better! 🙏</h3>
 
-💪 I spearhead complex cross-functional technical European R&D projects and programs funded by the European Commission such as <a href="https://cordis.europa.eu/project/id/101138782">RAASCEMAN</a> and <a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a>, orchestrating collaborative efforts across multifaceted teams.
+<div align="center">
+<a href="https://twitter.com/kunalsuri" target="blank"><img src="https://img.shields.io/twitter/follow/kunalsuri?style=social&logo=x" alt="Follow kunalsuri on X (formerly Twitter)" /></a>
+<a href="https://www.linkedin.com/in/kunalsuri/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin" alt="Connect with kunalsuri on LinkedIn" /></a>
+<a href="https://medium.com/@kunalsuri" target="blank"><img src="https://img.shields.io/badge/Medium-Follow-12100E?style=social&logo=medium" alt="Follow kunalsuri on Medium" /></a>
+<a href="https://huggingface.co/kunalsuri" target="blank"><img src="https://img.shields.io/badge/🤗-HuggingFace-yellow?style=social" alt="Find kunalsuri on Hugging Face" /></a>
+<br />&nbsp;<br />
+</div>
 
-⚡🔭 My current work revolves around the topic of AI-Augumented <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a>, where we work on the applications of Generative AI 🤖 { LLM/ VLM :dependabot:} and AI Agnets to Digital Twins, especially for sectors such as <a href="https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html">Industry 5.0</a> including Supply Chain Management, Healthcare and Energy.
+</br>
 
-## 🤗 Connect with me!
-📫 The most efficient way to contact me is through my social media handles, please feel free to reach out!
+<table border="0">
+    <tr>
+        <td>💪</td>
+        <td>I spearhead complex cross-functional technical European R&D projects and programs funded by the European Commission such as <b><a href="https://cordis.europa.eu/project/id/101138782">RAASCEMAN</a></b> and <b><a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a></b>, orchestrating collaborative efforts across multifaceted teams.</td>
+    </tr>
+    <tr>
+        <td>⚡</td>
+        <td>My current work revolves around the topic of AI-Augumented <b><a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a></b>, where we work on the applications of Generative AI 🤖 { LLM/ VLM :dependabot:} and AI Agnets to Digital Twins, especially for sectors such as <b><a href="https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html">Industry 5.0</a></b> including Supply Chain Management, Healthcare and Energy.</td>
+    </tr>
+    <tr>
+        <td>🤗</td>
+        <td>The most efficient way to contact me is through my social media handles, please feel free to reach out!</td>
+    </tr>
+</table>
 
-<a href="https://medium.com/@kunalsuri" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/kunalsuri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/kunalsuri" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://huggingface.co/kunalsuri" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?&style=for-the-badge&logoColor=white" /></a>
+</br>
 
+## 🌱  Topics of Interest
+- 📖  AI Agents 
+- 👥  Digital Twins
+- 🛡️  Trustworthy & Sustainable AI
 
-## 🌱 Topics of Interest
-- 📖 AI Agents & Digital Twins
-- 🛡️ Trustworthy AI
-- 🌎 Sustainable AI (AI & Climate)
+</br>
 
+## 💻  Languages and Tools
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" onerror="this.onerror=null; this.src='https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png'; this.style='width:40px;height:40px;'"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/126733545" alt="langchain" width="40" height="40"/>
+  </a>
+</p>
 
-## 📝 Writing | Blogging
-I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.com/in/kunalsuri/), where I have over 4K+ followers.
+</br>
 
-
-## ✨ Some awesome Open-Source Repo that I use & adore ❤️!
+## ✨ Some awesome Open-Source Repo that I adore ❤️
 
 <details>
   <summary> Tools for running AI Models </summary>
@@ -71,6 +127,7 @@ I regularly contribute to technical topics on [LinkedIn](https://www.linkedin.co
   </ul>
 </details>
 
+</br>
 
-## 🛡️EU's Guidelines on Responsible AI
+## 🛡️ EU's Guidelines on Responsible AI
 :european_union: EU's Guidelines on the responsible use of generative AI in research: https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en
