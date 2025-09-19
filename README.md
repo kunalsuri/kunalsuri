@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi there, I'm Kunal</h1>
-<h3 align="center">A Computer Scientist & Manager for European R&D projects at <a href="https://list.cea.fr/en/">CEA</a>, where we develop technologies in a hope to make the world a bit better! 🙏</h3>
+<h1 align="center">👋 Hi there, I'm Dr. Kunal Suri</h1>
+<h3 align="center">A Computer Scientist & Manager for European R&D projects at <a href="https://list.cea.fr/en/">CEA</a>, developing technologies with the aim of making the world a little better 🙏</h3>
 
 </br>
 
