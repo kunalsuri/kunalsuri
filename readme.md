@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hello+%F0%9F%91%8B+I'm+Dr.+Kunal+Suri;Computer+Scientist+%2B+R%26D+Manager;Building+the+Future+with+Gen+AI;Igniting+Beneficial+Changes+for+Society+%F0%9F%99%8F" alt="Typing SVG" />
-
 <h3 align="center"> Hello, I'm Dr. Kunal Suri, Computer Scientist + Manager for :eu: European R&D / Innovation Projects at the <a href="https://list.cea.fr/en/">CEA</a>, France :fr: </h3>
 
 <br/>
