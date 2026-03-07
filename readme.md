@@ -1,43 +1,68 @@
 <div align="center">
 
-<h3 align="center"> Hello, I'm Dr. Kunal Suri, Computer Scientist + Manager for :eu: European R&D / Innovation Projects at the <a href="https://list.cea.fr/en/">CEA</a>, France :fr: </h3>
+<h1>Hi, I'm Dr. Kunal Suri 👋</h1>
+
+<h4>Computer Scientist · Manager for :eu: European R&D / Innovation Projects at <a href="https://list.cea.fr/en/">CEA</a>, France :fr:</h4>
 
 <br/>
-<br/>
-<br/>
 
-<!-- Social Badges -->
 [![X Follow](https://img.shields.io/badge/Follow-%40kunalsuri-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kunalsuri)
 [![LinkedIn](https://img.shields.io/badge/Connect-kunalsuri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalsuri/)
 [![Medium](https://img.shields.io/badge/Follow-%40kunalsuri-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kunalsuri)
 [![HuggingFace](https://img.shields.io/badge/🤗-kunalsuri-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/kunalsuri)
 
-
 </div>
 
-<br/>
-<br/>
+---
 
+<div align="center">
 
 ## 👨‍💻 About Me
 
-<table border="0" align="center">
-    <tr>
-        <td style="padding: 15px 10px;"> :eu: 💪 :fr: </td>
-        <td style="padding: 15px 10px;">I spearhead complex cross-functional technical European R&D / innovation projects (and programs) funded by the <b><a href="https://commission.europa.eu/index_en">European Commission</a></b> from the <b><a href="https://list.cea.fr/en/">CEA-List</a></b> side, where we orchestrate collaborative efforts across multi-faceted teams in EU. <br/><br/>🌟 Currently, I am working on the Horizon Europe funded <b><a href="https://cordis.europa.eu/project/id/101138782">RAASCEMAN</a></b> project (2024-2027). <br/><br/>✅  Previously, I led the EU H2020 funded <b><a href="https://cordis.europa.eu/project/id/870092">DIMOFAC</a></b> project (2019-2024).<br/><br/></td>
-    </tr>
-    <tr>
-        <td style="padding: 15px 10px;">⚡</td>
-        <td style="padding: 15px 10px;"><br/>My current work revolves around the topic of Gen AI / LLM-Powered SDLC + <b><a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a></b>. <br/><br/>I work on applications of Gen AI 🤖 (LLM/VLM) & Agentic AI Systems to Digital Twins, especially for sectors such as <b><a href="https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html">Industry 4.0 / 5.0</a></b> including Supply Chain Management.<br/> <br/></td>
-    </tr>
-    <tr>
-        <td style="padding: 15px 10px;">🤗</td>
-        <td style="padding: 15px 10px;"><br/>The most efficient way to contact me is through my social media handles, please feel free to reach out via LinkedIn! <br/><br/></td>
-    </tr>
-</table>
+:eu: 💪 :fr: Spearheading complex cross-functional **European R&D / Innovation projects** funded by the<br/>**[European Commission](https://commission.europa.eu/index_en)** from the **[CEA-List](https://list.cea.fr/en/)** side, orchestrating collaborative efforts across multi-faceted teams in EU
 
-<br/>
-<br/>
+🌟 Currently leading the Horizon Europe funded **[RAASCEMAN](https://cordis.europa.eu/project/id/101138782)** project (2024-2027)<br/>
+✅ Previously led the EU H2020 funded **[DIMOFAC](https://cordis.europa.eu/project/id/870092)** project (2019-2024)
+
+⚡ Working on **Gen AI / LLM-Powered SDLC** + **[Digital Twins](https://en.wikipedia.org/wiki/Digital_twin)** applied to **[Industry 4.0 / 5.0](https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html)**<br/>
+🤖 Applying Gen AI (LLM/VLM) & Agentic AI Systems to Digital Twins
+
+🤗 Reach out via **[LinkedIn](https://www.linkedin.com/in/kunalsuri/)** — always happy to connect!
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Topics of Interest
+
+📖 **Gen AI / LLM-Powered Software Development Life-Cycle (SDLC)**<br/>
+🛡️ **Trustworthy & Sustainable (Agentic) AI Systems**<br/>
+👥 **Digital Twins applied to Industry 4.0 / 5.0**
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
@@ -45,87 +70,51 @@
 
 <div align="center">
 
-<!-- GitHub Stats with Dark/Light Mode Support -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kunalsuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kunalsuri&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunalsuri&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kunalsuri&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
 </picture>
-
-<br/>
-<br/>
-
-
-<div align="center">
-
-<!-- Activity Graph -->
+&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kunalsuri&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kunalsuri&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Graph">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunalsuri&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph">
-</picture>
-
-</div>
-
-<br/>
-<br/>
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kunalsuri&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=kunalsuri&theme=flat&no-frame=true&no-bg=true&row=1&column=7">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalsuri&theme=flat&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kunalsuri&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kunalsuri&theme=default&hide_border=true">
+  <img height="170em" src="https://streak-stats.demolab.com/?user=kunalsuri&theme=default&hide_border=true" alt="Streak Stats"/>
 </picture>
 
 </div>
 
 ---
 
-<br/>
-<br/>
-<br/>
+## 🚀 Featured Projects
 
+<div align="center">
 
-## 🌱 Topics of Interest
+<a href="https://github.com/kunalsuri/prompt-engineering-playbook">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kunalsuri&repo=prompt-engineering-playbook&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kunalsuri&repo=prompt-engineering-playbook&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalsuri&repo=prompt-engineering-playbook&theme=default&hide_border=true" alt="prompt-engineering-playbook"/>
+  </picture>
+</a>
+&nbsp;
+<a href="https://github.com/kunalsuri/kllama">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kunalsuri&repo=kllama&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kunalsuri&repo=kllama&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalsuri&repo=kllama&theme=default&hide_border=true" alt="kllama"/>
+  </picture>
+</a>
 
-- 📖 **Gen AI / LLM-Powered Software Development Life-Cycle (SDLC)**
-- 🛡️ **Trustworthy & Sustainable (Agentic) AI Systems**
-- 👥 **Digital Twins applied to Industry 4.0 / 5.0**
+</div>
 
-
-<br/>
-<br/>
-<br/>
-
-
-
-## 💻 Tech Stack (Languages & Tools)
-
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-<br/>
-<br/>
-<br/>
-
-
+---
 
 ## 📝 Latest Blog Posts
 
-💡 Kindly visit my [Medium profile](https://medium.com/@kunalsuri) for the latest articles on Tech., Innovation, and Society!
+💡 Visit my [Medium profile](https://medium.com/@kunalsuri) for the latest articles on Tech, Innovation, and Society!
 
-<br/>
-<br/>
-<br/>
-
+---
 
 ## ✨ Awesome Open-Source Repos I Adore ❤️
 
@@ -175,35 +164,22 @@
   
 </details>
 
-<br/>
-<br/>
-<br/>
+---
 
+<details>
+  <summary>🛡️ EU's Guidelines on Responsible AI</summary>
+  <br/>
+  
+  :eu: The European Research Area Forum has developed comprehensive guidelines for the responsible use of generative AI in research contexts, emphasizing ethical considerations, transparency, and accountability.
+  
+  📄 [Read the full guidelines](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en)
+  
+</details>
 
-## 🛡️ EU's Guidelines on Responsible AI
-
-:eu: **EU's Guidelines on the Responsible Use of Generative AI in Research**
-
-The European Research Area Forum has developed comprehensive guidelines for the responsible use of generative AI in research contexts. These guidelines emphasize ethical considerations, transparency, and accountability in AI-powered research.
-
-📄 [Read the full guidelines](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en)
-
-<br/>
-<br/>
-<br/>
+---
 
 <div align="center">
 
-## 💬 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out through any of my social channels above!
-
-<br/>
-
-**⭐ If you find my work interesting, consider starring some of my repositories!**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+*I'm always open to interesting conversations and collaboration — feel free to reach out through any of my social channels above!*
 
 </div>
