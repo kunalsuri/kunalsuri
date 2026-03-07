@@ -7,9 +7,10 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect-kunalsuri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalsuri/)
-[![Medium](https://img.shields.io/badge/Follow-%40kunalsuri-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kunalsuri)
-[![HuggingFace](https://img.shields.io/badge/🤗-kunalsuri-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/kunalsuri)
+
+
 [![X Follow](https://img.shields.io/badge/Follow-%40kunalsuri-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kunalsuri)
+[![HuggingFace](https://img.shields.io/badge/🤗-kunalsuri-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/kunalsuri)
 
 </div>
 
@@ -84,9 +85,13 @@
 
 ## 💡 Latest Posts / Ideas on Tech, Innovation, and Society
 
-📝 [Substack profile](https://kunalsuri.substack.com/)
+<div align="center">
 
-📝 [Medium profile](https://medium.com/@kunalsuri) 
+[![Medium](https://img.shields.io/badge/Medium-Explore%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kunalsuri)
+
+[![Substack](https://img.shields.io/badge/Substack-Read%20My%20Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://kunalsuri.substack.com/)
+
+</div>
 
 ---
 
