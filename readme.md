@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Dr. Kunal Suri, and I ❤️ Open Source + Gen. AI</h1>
 
-<h4>Computer Scientist · Manager for :eu: European R&D / Innovation Projects at <a href="https://list.cea.fr/en/">CEA</a>, France :fr:</h4>
+<h4>Computer Scientist · Manager for European R&D / Innovation Projects at <a href="https://list.cea.fr/en/">CEA</a>, France </h4>
 
 <br/>
 
