@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Dr. Kunal Suri, and I ❤️ Open Source + Gen. AI</h1>
+<h1>Hi 👋, I'm Dr. Kunal Suri, & I ❤️ Open Source + Gen. AI</h1>
 
 <h4>Computer Scientist · Manager for European R&D / Innovation Projects at <a href="https://list.cea.fr/en/">CEA</a>, France </h4>
 
@@ -16,7 +16,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ## 👨‍💻 About Me
 
@@ -25,22 +25,16 @@
 🌟 Currently leading the Horizon Europe funded **[RAASCEMAN](https://cordis.europa.eu/project/id/101138782)** project (2024-2027)<br/>
 ✅ Previously led the EU H2020 funded **[DIMOFAC](https://cordis.europa.eu/project/id/870092)** project (2019-2024)
 
-⚡ Working on **Generative AI / LLM-Powered SDLC** + **[Digital Twins](https://en.wikipedia.org/wiki/Digital_twin)** applied to **[Industry 4.0 / 5.0](https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html)**<br/>
-🤖 Applying Gen AI (LLM/VLM) & Agentic AI Systems to Digital Twins
-
 </div>
 
 ---
 
-<div align="center">
+## 🌱 Area of R&D Focus
 
-## 🌱 Topics of Interest
 
-📖 **LLM-Powered Software Development Life-Cycle (SDLC)**<br/>
-🛡️ **Trustworthy & Sustainable Agentic AI Systems**<br/>
-👥 **Digital Twins applied to Industry 4.0 / 5.0**
-
-</div>
+📖 **AI-Powered / Agentic Software Engineering**<br/>
+🛡️ **Trustworthyness in Agentic AI Systems**<br/>
+🤖 Applications of AI in **[Digital Twins](https://en.wikipedia.org/wiki/Digital_twin)** for **[Industry 4.0 / 5.0](https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html)**
 
 ---
 
@@ -56,7 +50,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </div>
