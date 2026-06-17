@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-:eu: 💪 :fr: Spearheading complex cross-functional **European R&D / Innovation projects** funded by the<br/>**[European Commission](https://commission.europa.eu/index_en)** from the **[CEA-List](https://list.cea.fr/en/)** side, orchestrating collaborative efforts across multi-faceted teams in EU
+💪 Spearheading complex cross-functional **European R&D / Innovation projects** funded by the<br/>**[European Commission](https://commission.europa.eu/index_en)** from the **[CEA-List](https://list.cea.fr/en/)** side, orchestrating collaborative efforts across multi-faceted teams in EU
 
 🌟 Currently leading the Horizon Europe funded **[RAASCEMAN](https://cordis.europa.eu/project/id/101138782)** project (2024-2027)<br/>
 ✅ Previously led the EU H2020 funded **[DIMOFAC](https://cordis.europa.eu/project/id/870092)** project (2019-2024)
