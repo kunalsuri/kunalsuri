@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Dr. Kunal Suri, & I ❤️ Open Source + Gen. AI</h1>
+<h1>Hello👋, I'm Dr. Kunal Suri</h1>
+
+<h3>I ❤️ Open-Source and leveraging AI to solve Real-World Software Engineering Challenges/h3>
 
 <h4>Computer Scientist · Manager for European R&D / Innovation Projects at <a href="https://list.cea.fr/en/">CEA</a>, France </h4>
 
