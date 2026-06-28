@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>Hello👋, I'm Dr. Kunal Suri</h1>
+<h1> Hello👋, I'm Dr. Kunal Suri </h1>
 
-<h3>I ❤️ Open-Source and leveraging AI to solve Real-World Software Engineering Challenges/h3>
+<h3> I ❤️ Open-Source and leveraging AI to solve Real-World Software Engineering Challenges </h3>
 
-<h4>Computer Scientist · Manager for European R&D / Innovation Projects at <a href="https://list.cea.fr/en/">CEA</a>, France </h4>
+<h4> Computer Scientist · Manager for European R&D / Innovation Projects at <a href="https://list.cea.fr/en/">CEA</a>, France </h4>
 
 <br/>
 
@@ -20,11 +20,12 @@
 
 <div>
 
-## 👨‍💻 About Me
+## 👨‍💻 A few lines about me
 
-💪 Spearheading complex cross-functional **European R&D / Innovation projects** funded by the<br/>**[European Commission](https://commission.europa.eu/index_en)** from the **[CEA-List](https://list.cea.fr/en/)** side, orchestrating collaborative efforts across multi-faceted teams in EU
+💪 Spearheading complex cross-functional **European R&D / Innovation projects** funded by the<br/>**[European Commission](https://commission.europa.eu/index_en)** from the **[CEA-List](https://list.cea.fr/en/)** side, orchestrating collaborative efforts across multi-faceted teams in EU <br/>
 
-🌟 Currently leading the Horizon Europe funded **[RAASCEMAN](https://cordis.europa.eu/project/id/101138782)** project (2024-2027)<br/>
+✅ Currently leading the Horizon Europe funded **[RAASCEMAN](https://cordis.europa.eu/project/id/101138782)** project (2024-2027)<br/>
+
 ✅ Previously led the EU H2020 funded **[DIMOFAC](https://cordis.europa.eu/project/id/870092)** project (2019-2024)
 
 </div>
@@ -34,13 +35,13 @@
 ## 🌱 Area of R&D Focus
 
 
-📖 AI-Powered / **Agentic** Software Engineering <br/>
-🛡️ Trustworthiness in Agentic AI Systems <br/>
+📖 AI-Powered Software Engineering <br/>
+🛡️ Trustworthiness in Agentic AI Coding Systems <br/>
 🤖 Applications of AI in **[Digital Twins](https://en.wikipedia.org/wiki/Digital_twin)** for **[Industry 4.0 / 5.0](https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html)**
 
 ---
 
-## 💻 Fav. Tech Stack / Tools
+## 💻 My Fav. Tech Stack / Tools
 
 <div align="center">
 
@@ -53,6 +54,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+</div>
+
+---
+
+## 💡 Latest Posts / Ideas on Tech, Innovation, and Society
+
+<div align="center">
+
+[![Substack](https://img.shields.io/badge/Substack-Read%20My%20Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://kunalsuri.substack.com/)
+
+[![Medium](https://img.shields.io/badge/Medium-Explore%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kunalsuri)
 
 </div>
 
@@ -73,18 +86,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kunalsuri&theme=default&hide_border=true">
   <img height="170em" src="https://streak-stats.demolab.com/?user=kunalsuri&theme=default&hide_border=true" alt="Streak Stats"/>
 </picture>
-
-</div>
-
----
-
-## 💡 Latest Posts / Ideas on Tech, Innovation, and Society
-
-<div align="center">
-
-[![Medium](https://img.shields.io/badge/Medium-Explore%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kunalsuri)
-
-[![Substack](https://img.shields.io/badge/Substack-Read%20My%20Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://kunalsuri.substack.com/)
 
 </div>
 
