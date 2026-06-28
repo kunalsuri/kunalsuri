@@ -6,7 +6,7 @@
 
 <h4> Computer Scientist · Manager for European R&D / Innovation Projects at <a href="https://list.cea.fr/en/">CEA</a>, France </h4>
 
-<br/>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/Connect-kunalsuri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalsuri/)
 
@@ -15,6 +15,8 @@
 [![HuggingFace](https://img.shields.io/badge/🤗-kunalsuri-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/kunalsuri)
 
 </div>
+
+<br>
 
 ---
 
@@ -30,18 +32,23 @@
 
 </div>
 
+<br>
+
 ---
 
-## 🌱 Area of R&D Focus
+## 🌱 Area of interest
 
 
 📖 AI-Powered Software Engineering <br/>
 🛡️ Trustworthiness in Agentic AI Coding Systems <br/>
 🤖 Applications of AI in **[Digital Twins](https://en.wikipedia.org/wiki/Digital_twin)** for **[Industry 4.0 / 5.0](https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html)**
 
+
+<br>
+
 ---
 
-## 💻 My Fav. Tech Stack / Tools
+## 💻 Fav. Tech Stack / Tools
 
 <div align="center">
 
@@ -57,6 +64,8 @@
 
 </div>
 
+<br>
+
 ---
 
 ## 💡 Latest Posts / Ideas on Tech, Innovation, and Society
@@ -68,6 +77,8 @@
 [![Medium](https://img.shields.io/badge/Medium-Explore%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kunalsuri)
 
 </div>
+
+<br>
 
 ---
 
@@ -89,6 +100,8 @@
 
 </div>
 
+<br>
+
 ---
 
 <details>
@@ -100,6 +113,8 @@
   📄 [Read the full guidelines](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en)
   
 </details>
+
+<br>
 
 ---
 
