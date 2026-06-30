@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/Connect-kunalsuri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalsuri/)
 
-
 [![X Follow](https://img.shields.io/badge/Follow-%40kunalsuri-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kunalsuri)
 [![HuggingFace](https://img.shields.io/badge/🤗-kunalsuri-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/kunalsuri)
 
@@ -38,11 +37,9 @@
 
 ## 🌱 Area of interest
 
-
 📖 AI-Powered Software Engineering <br/>
 🛡️ Trustworthiness in Agentic AI Coding Systems <br/>
 🤖 Applications of AI in **[Digital Twins](https://en.wikipedia.org/wiki/Digital_twin)** for **[Industry 4.0 / 5.0](https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html)**
-
 
 <br>
 
@@ -104,8 +101,32 @@
 
 ---
 
+## Articles: EU's Tech & AI Strategy
+
+<div align="center">
+  <img src="./media/DigitalEU.jpg" alt="EU Tech Sovereignty" width="350"/>
+  <br/>
+  <sub>Source: EU Digital & Tech LinkedIn page</sub>
+</div>
+
+<br/>
+
 <details>
-  <summary>🛡️ EU's Guidelines on Responsible AI</summary>
+  <summary>🛡️ 3 June 2026: Strengthening Europe's Tech Sovereignty</summary>
+  <br/>
+  
+  :eu: Tech sovereignty is Europe’s ability to act independently in the digital world by developing and controlling key technologies, data, and infrastructure, while reducing reliance on non-EU providers. Open source is a key component of this vision, enabling collaboration, transparency, and digital autonomy.
+  
+  📄 [Read more about EU's Tech Sovereignty](https://digital-strategy.ec.europa.eu/en/policies/eu-tech-sovereignty)
+  
+</details>
+
+<br>
+
+---
+
+<details>
+  <summary>🛡️ 20 March 2024: EU's Guidelines on Responsible AI</summary>
   <br/>
   
   :eu: The European Research Area Forum has developed comprehensive guidelines for the responsible use of generative AI in research contexts, emphasizing ethical considerations, transparency, and accountability.
