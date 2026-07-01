@@ -37,7 +37,7 @@
 
 ## 🌱 Area of interest
 
-📖 AI-Powered Software Engineering <br/>
+📖 AI-Powered (Agentic) Software Engineering <br/>
 🛡️ Trustworthiness in Agentic AI Coding Systems <br/>
 🤖 Applications of AI in **[Digital Twins](https://en.wikipedia.org/wiki/Digital_twin)** for **[Industry 4.0 / 5.0](https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html)**
 
