@@ -2,7 +2,7 @@
 
 <h1> Hello👋, I'm Dr. Kunal Suri </h1>
 
-<h3> I ❤️ Open-Source and leveraging AI to solve Real-World Software Engineering Challenges </h3>
+<h3> I ❤️ Open-Source and Leveraging AI-powered Technologies to Solve Real-World Challenges </h3>
 
 <h4> Computer Scientist · Manager for European R&D / Innovation Projects at <a href="https://list.cea.fr/en/">CEA</a>, France </h4>
 
@@ -37,9 +37,9 @@
 
 ## 🌱 Area of interest
 
-📖 AI-Powered (Agentic) Software Engineering (SE) <br/>
-🛡️ Trustworthiness in Agentic SE / Coding Systems <br/>
-🤖 Applications of AI-Powered technologies in **[Digital Twins](https://en.wikipedia.org/wiki/Digital_twin)** with a focus on **[Industry 4.0 / 5.0](https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html)**
+📖 Fundamentals of Agentic Systems / AI-powered Software Engineering (SE) <br/>
+🛡️ Trustworthiness in Agentic Systems / AI-powered SE <br/>
+🤖 Applications of AI-powered SE and related technologies in **[Digital Twins](https://en.wikipedia.org/wiki/Digital_twin)** with a focus on **[Industry 4.0 / 5.0](https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html)**
 
 <br>
 
@@ -49,12 +49,11 @@
 
 <div align="center">
 
-![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -63,8 +62,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </div>
 
@@ -77,7 +74,6 @@
 <div align="center">
 
 [![Substack](https://img.shields.io/badge/Substack-Read%20My%20Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://kunalsuri.substack.com/)
-
 [![Medium](https://img.shields.io/badge/Medium-Explore%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kunalsuri)
 
 </div>
